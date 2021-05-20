@@ -387,21 +387,29 @@ nav a::before {
 }
 .slide-caption {
   text-align: left;
-  right: 60em;
+  right: 30em;
   position: absolute;
   top: 30%;
   transform: translateY(-50%);
 }
 .slide-caption h6 {
-  margin-top: 0px;
-  font-size: 14px;
+  margin-top: 50px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
   color: #fff;
+  line-height: 2em;
 }
 .slide-caption h2 {
   margin-top: 0px;
-  font-size: 60px;
+  font-size: 80px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #fff;
+}
+.slide-caption h1 {
+  margin-top: 0px;
+  font-size: 100px;
   text-transform: uppercase;
   font-weight: 900;
   color: #fff;
