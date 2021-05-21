@@ -387,10 +387,12 @@ nav a::before {
 }
 .slide-caption {
   text-align: left;
-  right: 30em;
+  margin-left: 25em;
+  margin-right: 25em;
   position: absolute;
   top: 30%;
   transform: translateY(-50%);
+  margin-top: 6.5em;
 }
 .slide-caption h6 {
   margin-top: 50px;
